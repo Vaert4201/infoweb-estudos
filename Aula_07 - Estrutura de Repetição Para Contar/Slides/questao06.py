@@ -1,0 +1,6 @@
+n = int(input('Digite qualquer número positivo:'))
+x = 1
+while x <= n:
+    print(x)
+    x += 1
+
