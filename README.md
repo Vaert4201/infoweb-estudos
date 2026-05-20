@@ -1,4 +1,4 @@
-# infoweb-estudos
+# Introdução A Lógica E A Programação
 
 [Github da sala](https://github.com/infoweb-logica)
 
