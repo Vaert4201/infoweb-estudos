@@ -1,0 +1,8 @@
+a = float(input('Digite o seu primeiro número:'))
+b = float(input('Digite o seu segundo número:'))
+c = float(input('Digite o seu terceiro número:'))
+maior = max(a, b, c)
+print(f'O seu primeiro número é:{a}')
+print(f'O seu segundo número é:{b}')
+print(f'O seu terceiro número é:{c}')
+print(f'O maior número é:{maior}')
