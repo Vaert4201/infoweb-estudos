@@ -2,9 +2,9 @@
 
 `Repositório para as aulas de Introdução à Lógica e Programação`
 
-Professor: Leonardo Ataide Minora
+`Professor: Leonardo Ataide Minora`
 
-Objetivo: Te ensinar o quão sofrida e cruel a vida pode ser, te deixando na beira da loucura...   (Experiência Própria)
+`Objetivo: Te ensinar o quão sofrida e cruel a vida pode ser, te deixando na beira da loucura...   (Experiência Própria)`
 
 
 [Github da sala](https://github.com/infoweb-logica)
